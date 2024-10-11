@@ -1,6 +1,6 @@
 # Quick-PyQGIS: A PyQGIS Code Snippet Generator
 
-This Plugin enables several actions in the QgisInterface, that generate PyQGIS Code Snippets from UI elements, ready to use in the QGIS Python console.
+The Quick-PyQGIS plugin streamlines your workflow by generating PyQGIS code snippets directly from the QGIS Interface. With just a few clicks, you can instantly create ready-to-use code, perfect for running in the QGIS Python Console.
 
 ## Generate Code that recreates the selected layer via PyQGIS functions
 Easily generate PyQGIS code that perfectly replicates any selected layer in your project. The generated code is automatically copied to your clipboard, allowing you to paste it directly into the Python console.
