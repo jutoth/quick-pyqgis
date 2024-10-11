@@ -13,7 +13,7 @@ This Plugin enables several actions in the QgisInterface, that generate PyQGIS C
 
 <br>
 
-**The script generates a perfect copy of the original layer:**<br>
+**The script generates a perfect copy of the original layer:**<br><br>
 ![grafik](https://github.com/user-attachments/assets/60109d6e-f03d-44b9-9328-62bcf09ec6a2)
 
 ### Generate Code that retrieves the respective layer and assigns it to variable
