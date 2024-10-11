@@ -11,7 +11,7 @@ This Plugin enables several actions in the QgisInterface, that generate PyQGIS C
 
 <br>
 
-The generated code is then added to your clipboard. You can now paste it in the Python console:<br>
+**The generated code is then added to your clipboard. You can now paste it in the Python console:**<br><br>
 ![grafik](https://github.com/user-attachments/assets/ea1c3688-7319-4e9a-b8c7-13e64b6722cf)
 
 
