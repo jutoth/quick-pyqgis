@@ -3,11 +3,17 @@
 This Plugin enables several actions in the QgisInterface, that generate PyQGIS Code Snippets from UI elements, ready to use in the QGIS Python console.
 
 ### Features:
-- Actions in the context menu of QgsVectorLayers:
-  - Generate Code that recreates the selected layer via PyQGIS functions.
-  - Generate Code that retrieves the respective layer and saves it in a variable
+**Generate Code that recreates the selected layer via PyQGIS functions**
+<br><br>
+**Generate Code that retrieves the respective layer and assign it to variable**
+<br><br>
+![grafik](https://github.com/user-attachments/assets/c35c3dd7-8566-4b23-a4bf-c627c3a7ddd3)
 
-### Coming Soon:
-- Actions in the context menu of processing toolbox algorithms:
-  - Generate Code that executes the respective algorithm
+<br><br>
+
+The generated code is then added to your clipboard. You can now paste it in the Python console:<br>
+![grafik](https://github.com/user-attachments/assets/ea1c3688-7319-4e9a-b8c7-13e64b6722cf)
+
+
+### More Features Coming Soon
 
