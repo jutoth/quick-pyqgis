@@ -7,13 +7,12 @@ Easily generate PyQGIS code that perfectly replicates any selected layer in your
 This feature is particularly helpful for:
 - Sharing test data in forums (like Stack Exchange) without having to distribute files.
 - Saving time by programmatically recreating layers with ease.
-<br>
+
 ![grafik](https://github.com/user-attachments/assets/c35c3dd7-8566-4b23-a4bf-c627c3a7ddd3)
-<br>
+
 ![grafik](https://github.com/user-attachments/assets/ea1c3688-7319-4e9a-b8c7-13e64b6722cf)
-<br>
+
 ![grafik](https://github.com/user-attachments/assets/60109d6e-f03d-44b9-9328-62bcf09ec6a2)
-<br><br>
 
 ## Generate Code that retrieves the respective layer and assigns it to variable
 ![grafik](https://github.com/user-attachments/assets/67a8d2ae-aa70-4dc9-bfcc-a87253265559)
