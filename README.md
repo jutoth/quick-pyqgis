@@ -3,7 +3,7 @@
 This Plugin enables several actions in the QgisInterface, that generate PyQGIS Code Snippets from UI elements, ready to use in the QGIS Python console.
 
 ### Generate Code that recreates the selected layer via PyQGIS functions
-<br>
+
 ![grafik](https://github.com/user-attachments/assets/c35c3dd7-8566-4b23-a4bf-c627c3a7ddd3)
 
 <br>
