@@ -1,8 +1,8 @@
-## Quick-PyQGIS: A PyQGIS Code Snippet Generator
+# Quick-PyQGIS: A PyQGIS Code Snippet Generator
 
 This Plugin enables several actions in the QgisInterface, that generate PyQGIS Code Snippets from UI elements, ready to use in the QGIS Python console.
 
-### Generate Code that recreates the selected layer via PyQGIS functions
+## Generate Code that recreates the selected layer via PyQGIS functions
 
 ![grafik](https://github.com/user-attachments/assets/c35c3dd7-8566-4b23-a4bf-c627c3a7ddd3)
 
@@ -16,7 +16,7 @@ This Plugin enables several actions in the QgisInterface, that generate PyQGIS C
 **The script generates a perfect copy of the original layer:**<br><br>
 ![grafik](https://github.com/user-attachments/assets/60109d6e-f03d-44b9-9328-62bcf09ec6a2)
 
-### Generate Code that retrieves the respective layer and assigns it to variable
+## Generate Code that retrieves the respective layer and assigns it to variable
 ![grafik](https://github.com/user-attachments/assets/67a8d2ae-aa70-4dc9-bfcc-a87253265559)
 
 <br>
