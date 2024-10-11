@@ -18,7 +18,13 @@ This Plugin enables several actions in the QgisInterface, that generate PyQGIS C
 ![grafik](https://github.com/user-attachments/assets/60109d6e-f03d-44b9-9328-62bcf09ec6a2)
 
 <br><br>
-**Generate Code that retrieves the respective layer and assigns it to variable**
+**Generate Code that retrieves the respective layer and assigns it to variable**<br><br>
+![grafik](https://github.com/user-attachments/assets/67a8d2ae-aa70-4dc9-bfcc-a87253265559)
+
+<br>
+
+**The generated code**<br><br>
+![grafik](https://github.com/user-attachments/assets/cbe9b093-dcca-46be-ada0-6e7a5c948bdc)
 
 ## More Features Are Coming Soon!
 
