@@ -6,7 +6,7 @@ This Plugin enables several actions in the QgisInterface, that generate PyQGIS C
 **Generate Code that recreates the selected layer via PyQGIS functions**
 <br>
 **Generate Code that retrieves the respective layer and assign it to variable**
-<br>
+<br><br>
 ![grafik](https://github.com/user-attachments/assets/c35c3dd7-8566-4b23-a4bf-c627c3a7ddd3)
 
 <br>
